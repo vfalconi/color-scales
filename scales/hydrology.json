@@ -1,4 +1,5 @@
 {
+	"name": "hydrology",
 	"base": "rgb(29, 78, 137)",
 	"thresholds": {
 		"10": "rgb(28, 85, 142)",

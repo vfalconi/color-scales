@@ -1,4 +1,5 @@
 {
+	"name": "uv index",
 	"base": "rgb(1, 255, 112)",
 	"thresholds": {
 		"2": "rgb(255, 220, 0)",

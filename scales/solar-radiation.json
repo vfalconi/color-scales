@@ -1,4 +1,5 @@
 {
+	"name": "solar radiation",
 	"base": "rgb(249, 248, 206)",
 	"thresholds": {
 		"3": "rgb(252, 235, 160)",
